@@ -26,6 +26,6 @@
     "axe-html-reporter": "^2.2.11"
   },
   "devDependencies": {
-    "choco-theme": "https://github.com/chocolatey/choco-theme#choco-playwright"
+    "choco-theme": "1.2.0"
   }
 }
